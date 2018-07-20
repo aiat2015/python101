@@ -5,3 +5,5 @@
   - Condiction and loop
   - Practical usage
 + Four exercises related to the four tutorials.
+
+https://academy.aiat.or.th/python101/
