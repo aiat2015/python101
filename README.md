@@ -1,9 +1,10 @@
 # AIAT Academy: Python101
-+ Four tutorials
++ Five tutorials
   - Hello, world
   - Function
   - Condiction and loop
-  - Practical usage
-+ Four exercises related to the four tutorials.
+  - List
+  - Seletected topics
++ Five exercises related to the five tutorials.
 
 https://academy.aiat.or.th/python101/
